@@ -1,0 +1,1 @@
+This is Day One of the #100DaysofCode done by AppBrewery and the Day 1 Project is the Band Name Generator.
