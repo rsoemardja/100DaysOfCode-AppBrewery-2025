@@ -1,0 +1,1 @@
+This is Day 2 of The #100DaysOfCode Project with the Main Project being creating a Tip Calculator
