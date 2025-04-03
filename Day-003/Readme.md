@@ -1,0 +1,1 @@
+This is Day3 of #100DaysOfCode with Learning If, Else, Modulo, Nesting and Logical Operators and Applying it all with a Treasure Island Project
