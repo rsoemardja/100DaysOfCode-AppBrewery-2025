@@ -1,0 +1,1 @@
+This is Day 5 of #100DaysOfCode Python and it covers Password-Generators For-Loops, Range and An Example for for-loops
